@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment files
+venv/
+.venv/
+env/
+
+# Log and cache files
+logs/
+*.log
+*.log.*
+.cache/
+
+# Local configuration files
+.local/
+local_settings.py
+
+# Distribution / packaging related files
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook related files
+.ipynb_checkpoints
+
+# PyCharm related files
+.idea/
+
+# VS Code related files
+.vscode/
+
+# Miscellaneous
+pip-log.txt
+pip-delete-this-directory.txt
+.spyderproject
+.spyproject
+.mypy_cache/
+.pyre/
+
+# Custom files
+.env
+executable/
+mysql-backups/
